@@ -1,0 +1,5 @@
+{
+  "name": "Document Intelli-Extractor",
+  "description": "An application to extract structured information from document images using AI. Supports tax documents, bank slips, ITR forms, and certificates.",
+  "requestFramePermissions": []
+}

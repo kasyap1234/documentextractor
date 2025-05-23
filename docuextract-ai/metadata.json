@@ -1,0 +1,5 @@
+{
+  "name": "DocuExtract AI",
+  "description": "An intelligent web application that leverages AI to extract structured information from uploaded documents like bank statements, ITRs, and marksheets, presenting the output in JSON format.",
+  "requestFramePermissions": []
+}
